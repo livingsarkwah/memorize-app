@@ -1,0 +1,4 @@
+# Source zips can be large; keep them out of git history if you'd rather store them elsewhere
+# (object storage, Git LFS, a shared drive) and only commit the built public/content/ output.
+# Delete this file if you want to commit the source zips directly instead.
+*.zip

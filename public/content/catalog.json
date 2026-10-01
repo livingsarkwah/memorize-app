@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-01T21:09:24.977Z",
+  "items": [
+    {
+      "id": "tuhfatul-atfaal",
+      "version": 1,
+      "title": "Tuhfatul Atfaal",
+      "titleNative": "تُحْفَةُ الْأَطْفَالِ",
+      "language": "ar",
+      "contentType": "poem",
+      "author": "Sulayman al-Jamzuri",
+      "segmentCount": 131,
+      "duration": 0,
+      "package": {
+        "url": "tuhfatul-atfaal-6eba07b4438b.zip",
+        "sha256": "6eba07b4438bb9f23ff15edfceb260b3e2fa56a376c0a7e6a94e8628974d128b",
+        "sizeBytes": 13814891
+      }
+    }
+  ]
+}
