@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T21:09:24.977Z",
+  "generatedAt": "2026-10-05T19:05:53.326Z",
   "items": [
+    {
+      "id": "muqaddimatu-al-jazariyya",
+      "version": 1,
+      "title": "Al-Muqaddimatu al-Jazariyya",
+      "titleNative": "المقدمة الجزرية",
+      "language": "ar",
+      "contentType": "poem",
+      "author": "Muhammad ibn Al-Jazaree",
+      "segmentCount": 220,
+      "duration": 0,
+      "package": {
+        "url": "muqaddimatu-al-jazariyya-7af749febb82.zip",
+        "sha256": "7af749febb8269433a2d6dfee1c0f1f31679f753c0e60f7a5967c3b060692c5b",
+        "sizeBytes": 21690825
+      }
+    },
     {
       "id": "tuhfatul-atfaal",
       "version": 1,
