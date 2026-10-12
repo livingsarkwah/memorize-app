@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T19:05:53.326Z",
+  "generatedAt": "2026-10-12T16:15:34.131Z",
   "items": [
     {
       "id": "muqaddimatu-al-jazariyya",
@@ -10,12 +10,12 @@
       "language": "ar",
       "contentType": "poem",
       "author": "Muhammad ibn Al-Jazaree",
-      "segmentCount": 220,
+      "segmentCount": 233,
       "duration": 0,
       "package": {
-        "url": "muqaddimatu-al-jazariyya-7af749febb82.zip",
-        "sha256": "7af749febb8269433a2d6dfee1c0f1f31679f753c0e60f7a5967c3b060692c5b",
-        "sizeBytes": 21690825
+        "url": "muqaddimatu-al-jazariyya-e6c78d19a3ae.zip",
+        "sha256": "e6c78d19a3aed02367401e3bd0edf1ec0189917d4843fc7a9b6c665aa00a088b",
+        "sizeBytes": 11850151
       }
     },
     {
