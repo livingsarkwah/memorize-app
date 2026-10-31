@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T16:15:34.131Z",
+  "generatedAt": "2026-10-31T20:00:12.162Z",
   "items": [
     {
       "id": "muqaddimatu-al-jazariyya",
@@ -29,9 +29,9 @@
       "segmentCount": 131,
       "duration": 0,
       "package": {
-        "url": "tuhfatul-atfaal-6eba07b4438b.zip",
-        "sha256": "6eba07b4438bb9f23ff15edfceb260b3e2fa56a376c0a7e6a94e8628974d128b",
-        "sizeBytes": 13814891
+        "url": "tuhfatul-atfaal-06319d628a71.zip",
+        "sha256": "06319d628a7167fe3308a3fca565da933748bfb8f6affd45c8d46edd4589682f",
+        "sizeBytes": 13815067
       }
     }
   ]
